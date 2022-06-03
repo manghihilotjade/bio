@@ -1,0 +1,34 @@
+.container{
+  background-color: indianred;
+}
+h1{
+  
+  color: blue;
+}
+img{
+  width: 180px;
+  height: 180px;
+}
+.division1{
+  display: grid;
+  place-items: center;
+}
+
+.paragraph{
+  border-radius: 10px;
+  border: solid 2px;
+  background-color: lightgray;
+}
+.contact{
+  border-radius: 10px;
+  border: solid black 2px;
+  background-color: gray;
+  
+}
+h3{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
